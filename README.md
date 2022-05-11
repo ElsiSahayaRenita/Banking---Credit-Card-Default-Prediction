@@ -1,5 +1,10 @@
 # Banking---Credit-Card-Default-Prediction
 
+About Dataset
+This dataset contains information on default payments, demographic factors, credit
+data, history of payment, and bill statements of credit card clients in Taiwan from April
+2005 to September 2005.
+
 Problem Statement:
 Financial threats are displaying a trend about the credit risk of commercial banks as the
 incredible improvement in the financial industry has arisen. In this way, one of the
